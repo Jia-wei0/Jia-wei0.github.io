@@ -1,8 +1,8 @@
 # 简历 Resume
 
 ## Jiawei Fan
-**地址Address**: XX Drew St, Winnipeg, MB  
-**手机Phone**: XXX-XXX-XXXX  
+**地址 Address**: XX Drew St, Winnipeg, MB  
+**手机 Phone**: XXX-XXX-XXXX  
 **Email**: 2502318977@qq.com
 
 ## 教育经历 Education
