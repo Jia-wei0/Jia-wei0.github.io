@@ -1,24 +1,26 @@
-# Resume
+# 简历 Resume
 
 ## Jiawei Fan
-**Address**: XX Drew St, Winnipeg, MB  
-**Phone**: XXX-XXX-XXXX  
-**Email**: fanj2@myumanitoba.ca
+**地址Address**: XX Drew St, Winnipeg, MB  
+**手机Phone**: XXX-XXX-XXXX  
+**Email**: 2502318977@qq.com
 
-## Education
-Bachelor of Science in Computer Science, University of Manitoba (Expected Graduation: 2024-12)
+## 教育经历 Education
+曼尼托巴大学计算机科学专业理学学士，辅修经济学与数学
+Bachelor of Science in Computer Science, University of Manitoba (Expected Graduation: 2026-08)
+Minor: Economic and Mathematics
 
-## Skills
+## 技能 Skills
 - Proficient in computer skills, tools, and software
 - Strong problem-solving and analytical abilities
 - Excellent communication and interpersonal skills
 - Detail-oriented with strong organizational skills
 - Ability to work independently and as part of a team
 
-## Projects
+## 项目经历 Projects
 - Developed a web-based application for tracking inventory using Java and MySQL
 - Created a mobile app prototype for expense management using React Native
 
-## Languages
-- English (Fluent)
-- Chinese (Native)
+## 语言 Languages
+- 英语 English (Fluent)
+- 汉语 Mandarin (Native)
