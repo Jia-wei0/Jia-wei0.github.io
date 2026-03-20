@@ -6,8 +6,9 @@
 **Email**: 2502318977@qq.com
 
 ## 教育经历 Education
-曼尼托巴大学计算机科学专业理学学士，辅修经济学与数学
-Bachelor of Science in Computer Science, University of Manitoba (Expected Graduation: 2026-08)
+曼尼托巴大学计算机科学专业理学学士  
+辅修经济学与数学  
+Bachelor of Science in Computer Science, University of Manitoba (Expected Graduation: 2026-08)  
 Minor: Economic and Mathematics
 
 ## 技能 Skills
